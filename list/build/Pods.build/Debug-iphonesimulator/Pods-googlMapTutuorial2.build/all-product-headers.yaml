@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jiapeihuo/Downloads/Google-Map-Tutorial-iOS/build/Debug-iphonesimulator/Pods_googlMapTutuorial2.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-googlMapTutuorial2-umbrella.h",
+          'external-contents': "/Users/jiapeihuo/Downloads/Google-Map-Tutorial-iOS/Pods/Target Support Files/Pods-googlMapTutuorial2/Pods-googlMapTutuorial2-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_googlMapTutuorial2-Swift.h",
+          'external-contents': "/Users/jiapeihuo/Downloads/Google-Map-Tutorial-iOS/build/Debug-iphonesimulator/Pods_googlMapTutuorial2.framework/Headers/Pods_googlMapTutuorial2-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jiapeihuo/Downloads/Google-Map-Tutorial-iOS/build/Debug-iphonesimulator/Pods_googlMapTutuorial2.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jiapeihuo/Downloads/Google-Map-Tutorial-iOS/build/Pods.build/Debug-iphonesimulator/Pods-googlMapTutuorial2.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
